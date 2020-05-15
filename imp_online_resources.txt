@@ -1,0 +1,13 @@
+https://developers.google.com/machine-learning/crash-course
+http://colah.github.io/posts/2014-10-Visualizing-MNIST/
+http://d2l.ai/chapter_linear-networks/linear-regression.html#exercises
+https://qiskit.org/textbook/about.html
+https://www.youtube.com/channel/UCTBGXCJHORQjivtgtMsmkAQ/playlists
+http://onlinestatbook.com/2/calculators/normal_dist.html
+https://madewithml.com/topics/
+https://paperswithcode.com/paper/meta-learning-without-memorization-1
+http://www.aosabook.org/en/index.html
+https://github.com/Machine-Learning-Tokyo/AI_Curriculum
+https://sites.google.com/view/cs-159-spring-2020/home
+https://leetcode.com/
+https://stackoverflow.com/jobs/149129/backend-software-engineer-remote-global-dhis2

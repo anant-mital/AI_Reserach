@@ -1,0 +1,3 @@
+https://ai.facebook.com/blog/a-highly-efficient-real-time-text-to-speech-system-deployed-on-cpus/
+https://ai.facebook.com/blog/facebook-research-at-icassp-2020
+https://ai.googleblog.com/2020/04/advancing-self-supervised-and-semi.html
