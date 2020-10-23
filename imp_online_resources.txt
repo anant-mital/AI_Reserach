@@ -12,3 +12,4 @@ https://sites.google.com/view/cs-159-spring-2020/home
 https://leetcode.com/
 https://stackoverflow.com/jobs/149129/backend-software-engineer-remote-global-dhis2
 http://karpathy.github.io/2016/09/07/phd/
+https://betterexplained.com/
